@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">燃料选择</string>
+    <string name="etanol_text">" 乙醇价格："</string>
+    <string name="gas_text">" 汽油价格："</string>
+    <string name="tip">" 最好用"</string>
+    <string name="fuelEthanol">" 乙醇"</string>
+    <string name="fuelGas">" 汽油"</string>
+</resources>

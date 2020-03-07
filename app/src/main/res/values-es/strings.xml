@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CuálCombustibleElegir</string>
+    <string name="etanol_text">" Precio del etanol:"</string>
+    <string name="gas_text">" Precio de la gasolina:"</string>
+    <string name="tip">Es mejor usar</string>
+    <string name="fuelGas">" Gasolina"</string>
+    <string name="fuelEthanol">" Etanol"</string>
+</resources>

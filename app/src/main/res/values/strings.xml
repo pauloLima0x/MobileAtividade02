@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">WhatsFuelChoose</string>
+    <string name="gas_text">Gasoline price:</string>
+    <string name="etanol_text">Ethanol price:</string>
+    <string name="tip">It is better to use</string>
+    <string name="fuelGas">Gasoline</string>
+    <string name="fuelEthanol">Ethanol</string>
+
+
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QualCombustivel</string>
+    <string name="etanol_text">Preço do etanol:</string>
+    <string name="gas_text">Preço da gasolina:</string>
+    <string name="tip">É melhor usar</string>
+    <string name="fuelEthanol">Etanol</string>
+    <string name="fuelGas">Gasolina</string>
+
+</resources>

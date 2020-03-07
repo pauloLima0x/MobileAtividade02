@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="seekbar_height">40dp</dimen>
+    <dimen name="width_imageView">250dp</dimen>
+    <dimen name="height_imageView">250dp</dimen>
+</resources>
